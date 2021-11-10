@@ -1,8 +1,12 @@
+import { KAKAO_MAP_API_KEY, T_MAP_API_KEY } from "./API_KEY";
+
 const config = {
     global: {
-      kakaomapAPIKey: '20917a68770a34db8e253ee0f1ea3cd8', 
+      kakaomapAPIKey: KAKAO_MAP_API_KEY,
+      tmapAPIKey: T_MAP_API_KEY 
     },
-    title: `'하나님의 사인' 출판 기념회`, 
+    title: `유영창 장로의 출판 기념회`, 
+    book:`'하나님의 사인(Sign of GOD)'`,
     author:{
       name: '유영창'
     },
