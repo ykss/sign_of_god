@@ -13,7 +13,7 @@ const Wrapper = styled.div`
   align-items: center;
   justify-content: center;
   height: auto;
-  max-width: 430px;
+  max-width: 375px;
   margin: 0 30% 0 30%;
   background-color: #fff;
 `;

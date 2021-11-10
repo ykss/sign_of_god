@@ -2,9 +2,9 @@
   font-family: 'Nanum Gothic', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  margin:auto;
-  width: 100%;
-  display : flex;
+  margin: auto;
+  width: 90%;
+  display: flex;
   justify-content: center;
   align-items: center;
 }

@@ -56,8 +56,8 @@ function KakaoMaps() {
     <div
       id="myMap"
       style={{
-        width: "430px",
-        height: "430px",
+        width: "350px",
+        height: "350px",
       }}
     ></div>
   );
