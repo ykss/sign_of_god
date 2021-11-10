@@ -52,7 +52,7 @@ function Navigation() {
             <a
               href={`https://apis.openapi.sk.com/tmap/app/routes?appKey=${config.global.tmapAPIKey}&name=${config.place.name}&lon=${config.place.longitude}&lat=${config.place.latitude}`}
             >
-              <ImageIcon src="/tmap.png" alt="tmap" />
+              <ImageIcon src="./tmap.png" alt="tmap" />
               <br />
             </a>
             <IconLabel>티맵</IconLabel>
@@ -61,7 +61,7 @@ function Navigation() {
             <a
               href={`https://map.kakao.com/link/map/${config.place.name},${config.place.latitude},${config.place.longitude}`}
             >
-              <ImageIcon src="/kakaomap.png" alt="kakaomap" />
+              <ImageIcon src="./kakaomap.png" alt="kakaomap" />
             </a>
             <br />
             <IconLabel>카카오맵</IconLabel>

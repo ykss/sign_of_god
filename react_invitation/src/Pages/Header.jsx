@@ -33,7 +33,7 @@ const Typography = styled.p`
 function Header() {
   return (
     <HeaderWrapper>
-      <MainImage alt="main" src="/main.jpg" />
+      <MainImage alt="main" src="./main.jpg" />
       <Title>{config.title}</Title>
       <BookName>{config.book}</BookName>
       <Typography>
