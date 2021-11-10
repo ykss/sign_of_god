@@ -14,7 +14,7 @@ const GallaryWrapper = styled.div`
 function Gallary() {
   return (
     <GallaryWrapper>
-      <BookImage alt="book" src="./book.png" />
+      <BookImage alt="book" src="./halfbook.png" />
     </GallaryWrapper>
   );
 }
