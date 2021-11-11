@@ -5,6 +5,7 @@ const Typography = styled.p`
   text-align: center;
   justify-content: center;
   align-items: center;
+  line-height: 30px;
 `;
 
 const ContentsWrapper = styled.div`
@@ -12,6 +13,7 @@ const ContentsWrapper = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  margin-bottom: 50px;
 `;
 
 function Contents() {

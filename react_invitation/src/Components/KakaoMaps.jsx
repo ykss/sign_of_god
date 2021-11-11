@@ -11,7 +11,7 @@ function KakaoMaps() {
         config.place.latitude,
         config.place.longitude
       ),
-      level: 2,
+      level: 4,
     };
     const map = new kakao.maps.Map(container, options);
 

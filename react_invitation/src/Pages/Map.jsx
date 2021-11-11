@@ -22,6 +22,10 @@ const PointParagraph = styled.div`
   margin-top: 0;
 `;
 
+const Typo = styled.p`
+  line-height: 30px;
+`;
+
 function Map() {
   return (
     <>
@@ -34,15 +38,15 @@ function Map() {
       <KakaoMaps />
       <Navigation />
       <RouteInfo>
-        <p>- 자가 이용시: 교회 주차장 이용 가능</p>
+        <Typo>- 자가 이용시: 교회 주차장 이용 가능</Typo>
         <PointParagraph>
           (가급적 대중교통을 이용해주시기 바랍니다)
         </PointParagraph>
-        <p>
+        <Typo>
           - 버스 이용시: 시내버스 1213, 2013 (서일전문대 정류장), 마을버스
           중랑02 (새마을금고 정류장)
-        </p>
-        <p>- 지하철 이용시: 7호선 면목역 2번 출구 &gt; 버스 이용</p>
+        </Typo>
+        <Typo>- 지하철 이용시: 7호선 면목역 2번 출구 &gt; 버스 이용</Typo>
       </RouteInfo>
     </>
   );
