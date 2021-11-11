@@ -36,7 +36,9 @@ function KakaoMaps() {
     height: 24px;
     line-height:22px;
     border-radius:4px;
-    padding:5px 10px;">${config.place.address}</span>`;
+    padding:5px 10px;
+    border:3px solid yellow;
+    font-weight:bold;">${config.place.address}</span>`;
     var iwPosition = new kakao.maps.LatLng(
       config.place.latitude,
       config.place.longitude
