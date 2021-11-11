@@ -2,6 +2,7 @@ import React from "react";
 import styled from "styled-components";
 
 import config from "../config";
+import main from "../Images/main.jpg";
 
 const HeaderWrapper = styled.div`
   width: 100%;
@@ -23,7 +24,7 @@ const MainImage = styled.img`
 function Header() {
   return (
     <HeaderWrapper>
-      <MainImage alt="main" src="./main.jpg" />
+      <MainImage alt="main" src={main} />
       <Title>{config.title}</Title>
     </HeaderWrapper>
   );

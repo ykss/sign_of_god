@@ -1,5 +1,6 @@
 import React from "react";
 import styled from "styled-components";
+import book from "../Images/halfbook.png";
 
 const BookImage = styled.img`
   width: 80%;
@@ -15,7 +16,7 @@ const GallaryWrapper = styled.div`
 function Gallary() {
   return (
     <GallaryWrapper>
-      <BookImage alt="book" src="./halfbook.png" />
+      <BookImage alt="book" src={book} />
     </GallaryWrapper>
   );
 }
