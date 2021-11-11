@@ -12,7 +12,7 @@ const config = {
     },
     place: {
       name: '목천교회 본당 (2층)',
-      address: '서울 중랑구 용마산로 432 (면목동, 목천교회)',
+      address: '중랑구 용마산로 432(면목동, 목천교회)',
       contact:'02-434-0153',
       latitude: 37.589756,
       longitude: 127.097318,
