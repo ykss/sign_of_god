@@ -2,7 +2,7 @@
   "name": "react_invitation",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ykss.github.io/react_invitation",
+  "homepage": "https://ykss.github.io/sign_of_god",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
     "@testing-library/react": "^11.2.7",
