@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react_invitation/static/css/main.6e3d6956.chunk.css",
-    "main.js": "/react_invitation/static/js/main.147194b9.chunk.js",
-    "main.js.map": "/react_invitation/static/js/main.147194b9.chunk.js.map",
+    "main.js": "/react_invitation/static/js/main.2efcc9d1.chunk.js",
+    "main.js.map": "/react_invitation/static/js/main.2efcc9d1.chunk.js.map",
     "runtime-main.js": "/react_invitation/static/js/runtime-main.570d6fb8.js",
     "runtime-main.js.map": "/react_invitation/static/js/runtime-main.570d6fb8.js.map",
     "static/js/2.36375c78.chunk.js": "/react_invitation/static/js/2.36375c78.chunk.js",
@@ -11,12 +11,15 @@
     "static/js/3.c48da5b4.chunk.js.map": "/react_invitation/static/js/3.c48da5b4.chunk.js.map",
     "index.html": "/react_invitation/index.html",
     "static/css/main.6e3d6956.chunk.css.map": "/react_invitation/static/css/main.6e3d6956.chunk.css.map",
-    "static/js/2.36375c78.chunk.js.LICENSE.txt": "/react_invitation/static/js/2.36375c78.chunk.js.LICENSE.txt"
+    "static/js/2.36375c78.chunk.js.LICENSE.txt": "/react_invitation/static/js/2.36375c78.chunk.js.LICENSE.txt",
+    "static/media/halfbook.a4713959.png": "/react_invitation/static/media/halfbook.a4713959.png",
+    "static/media/main.277d950f.jpg": "/react_invitation/static/media/main.277d950f.jpg",
+    "static/media/naver-map.13ab25c6.png": "/react_invitation/static/media/naver-map.13ab25c6.png"
   },
   "entrypoints": [
     "static/js/runtime-main.570d6fb8.js",
     "static/js/2.36375c78.chunk.js",
     "static/css/main.6e3d6956.chunk.css",
-    "static/js/main.147194b9.chunk.js"
+    "static/js/main.2efcc9d1.chunk.js"
   ]
 }
