@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/sign_of_god/static/css/main.6e3d6956.chunk.css",
-    "main.js": "/sign_of_god/static/js/main.c79290ea.chunk.js",
-    "main.js.map": "/sign_of_god/static/js/main.c79290ea.chunk.js.map",
+    "main.css": "/sign_of_god/static/css/main.04533697.chunk.css",
+    "main.js": "/sign_of_god/static/js/main.59afc6b0.chunk.js",
+    "main.js.map": "/sign_of_god/static/js/main.59afc6b0.chunk.js.map",
     "runtime-main.js": "/sign_of_god/static/js/runtime-main.751ba241.js",
     "runtime-main.js.map": "/sign_of_god/static/js/runtime-main.751ba241.js.map",
     "static/js/2.591aba79.chunk.js": "/sign_of_god/static/js/2.591aba79.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.c48da5b4.chunk.js": "/sign_of_god/static/js/3.c48da5b4.chunk.js",
     "static/js/3.c48da5b4.chunk.js.map": "/sign_of_god/static/js/3.c48da5b4.chunk.js.map",
     "index.html": "/sign_of_god/index.html",
-    "static/css/main.6e3d6956.chunk.css.map": "/sign_of_god/static/css/main.6e3d6956.chunk.css.map",
+    "static/css/main.04533697.chunk.css.map": "/sign_of_god/static/css/main.04533697.chunk.css.map",
     "static/js/2.591aba79.chunk.js.LICENSE.txt": "/sign_of_god/static/js/2.591aba79.chunk.js.LICENSE.txt",
     "static/media/halfbook.a4713959.png": "/sign_of_god/static/media/halfbook.a4713959.png",
     "static/media/main.277d950f.jpg": "/sign_of_god/static/media/main.277d950f.jpg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.751ba241.js",
     "static/js/2.591aba79.chunk.js",
-    "static/css/main.6e3d6956.chunk.css",
-    "static/js/main.c79290ea.chunk.js"
+    "static/css/main.04533697.chunk.css",
+    "static/js/main.59afc6b0.chunk.js"
   ]
 }
