@@ -11,7 +11,9 @@ const FooterWrapper = styled.div`
 function Footer() {
   return (
     <FooterWrapper>
-      <p>© 2021, ykss, all rights reserved</p>
+      <p>
+        © 2021, <a href="https://ykss.netlify.app">ykss</a>, all rights reserved
+      </p>
     </FooterWrapper>
   );
 }
