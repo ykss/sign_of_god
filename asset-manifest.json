@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sign_of_god/static/css/main.04533697.chunk.css",
-    "main.js": "/sign_of_god/static/js/main.6579c5ed.chunk.js",
-    "main.js.map": "/sign_of_god/static/js/main.6579c5ed.chunk.js.map",
+    "main.js": "/sign_of_god/static/js/main.10ffb416.chunk.js",
+    "main.js.map": "/sign_of_god/static/js/main.10ffb416.chunk.js.map",
     "runtime-main.js": "/sign_of_god/static/js/runtime-main.751ba241.js",
     "runtime-main.js.map": "/sign_of_god/static/js/runtime-main.751ba241.js.map",
     "static/js/2.591aba79.chunk.js": "/sign_of_god/static/js/2.591aba79.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.751ba241.js",
     "static/js/2.591aba79.chunk.js",
     "static/css/main.04533697.chunk.css",
-    "static/js/main.6579c5ed.chunk.js"
+    "static/js/main.10ffb416.chunk.js"
   ]
 }
