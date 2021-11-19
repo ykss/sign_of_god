@@ -17,7 +17,7 @@ const config = {
     latitude: 37.589756,
     longitude: 127.097318,
   },
-  date: "12월 18일 토요일 3시",
+  date: "2021년 12월 18일 토요일 3시",
 };
 
 export default config;
